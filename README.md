@@ -1,18 +1,17 @@
-# ☕ Flow Coffee
-
+# Flow Coffee
 > A React-based web application for Flow Coffee — a cozy café in Tyre, Lebanon.  
-> *Sip. Relax. Flow.*
-## 🌐 Live Demo
+> Sip. Relax. Flow.
+## Live Demo
 https://flow-coffee-amber.vercel.app
 ---
 
-## 📖 Project Description
+## Project Description
 
-Flow Coffee is a fully responsive, multi-page web application built with **ReactJS** and **Tailwind CSS**. It showcases the café's menu, story, gallery, and contact information. The app was developed as part of **CSCI390: Web Programming — Project Phase 2**.
+Flow Coffee is a fully responsive, multi-page web application built with ReactJS and Tailwind CSS. It showcases the café's menu, story, gallery, and contact information. The app was developed as part of CSCI390: Web Programming — Project Phase 2.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -23,26 +22,15 @@ Flow Coffee is a fully responsive, multi-page web application built with **React
 
 ---
 
-## 📄 Pages
-
-| Page | Route | Description |
-|---|---|---|
-| Home | `/` | Hero section, welcome text, gallery preview |
-| About | `/about` | Our story, values, and location |
-| Menu | `/menu` | Full menu with items and prices |
-| Contact | `/contact` | Contact info and feedback form |
-
----
-
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
-- Node.js (v16 or later)
+- Node.js 
 - npm
 
 ### Installation
 
-```bash
+
 # 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/flow-coffee.git
 
@@ -66,7 +54,7 @@ npm run build
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 ### Deploy to Vercel
 
@@ -86,7 +74,7 @@ npx gh-pages -d build
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 flow-coffee/
@@ -109,18 +97,7 @@ flow-coffee/
 
 ---
 
-## 👤 Developer
-
-| Name | Role |
-|---|---|
-| Ghadeer | Full stack — React components, routing, Tailwind styling, responsiveness, content, assets, deployment |
-
-## 🎓 Course Info
-
-- **Course:** CSCI390 — Web Programming  
-- **Phase:** 2 (Frontend)  
-- **Due Date:** May 31, 2026
-## 📸 Screenshots
+##  Screenshots
 
 ### Home
 ![Home](screenshots/home.png.png)
