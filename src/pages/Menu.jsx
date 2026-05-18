@@ -42,9 +42,12 @@ const Menu = () => {
                   <h3 className="text-base font-semibold text-gray-800">{item.name}</h3>
                   <p className="text-gray-500 text-sm mt-1">{item.price}</p>
                 </div>
-                <button className="mt-3 w-full border-2 border-[#00563B] bg-[#00563B] text-white font-medium py-2 rounded-full hover:bg-white hover:text-gray-800 transition-all duration-300">
-                  Order Now
-                </button>
+                <button
+  onClick={() => alert(`${item.name} added to order! `)}
+  className="mt-3 w-full border-2 border-[#00563B] bg-[#00563B] text-white font-medium py-2 rounded-full hover:bg-white hover:text-gray-800 transition-all duration-300"
+>
+  Order Now
+</button>
               </div>
             </div>
           ))}
