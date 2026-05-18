@@ -109,15 +109,11 @@ flow-coffee/
 
 ---
 
-## 👥 Group Contribution Statement
+## 👤 Developer
 
-| Member | Contribution |
+| Name | Role |
 |---|---|
-| [Name 1] | React components, routing |
-| [Name 2] | Tailwind styling, responsiveness |
-| [Name 3] | Content, assets, deployment |
-
----
+| Ghadeer | Full stack — React components, routing, Tailwind styling, responsiveness, content, assets, deployment |
 
 ## 🎓 Course Info
 
