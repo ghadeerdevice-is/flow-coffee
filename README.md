@@ -2,7 +2,8 @@
 
 > A React-based web application for Flow Coffee — a cozy café in Tyre, Lebanon.  
 > *Sip. Relax. Flow.*
-
+## 🌐 Live Demo
+https://flow-coffee-amber.vercel.app
 ---
 
 ## 📖 Project Description
