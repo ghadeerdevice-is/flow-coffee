@@ -124,3 +124,16 @@ flow-coffee/
 - **Course:** CSCI390 — Web Programming  
 - **Phase:** 2 (Frontend)  
 - **Due Date:** May 31, 2026
+## 📸 Screenshots
+
+### Home
+![Home](screenshots/home.png.png)
+
+### About
+![About](screenshots/about.png.png)
+
+### Menu
+![Menu](screenshots/menu.png.png)
+
+### Contact
+![Contact](screenshots/contact.png.png)
