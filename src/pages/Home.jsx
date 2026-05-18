@@ -5,7 +5,7 @@ const Home = () => {
     <main>
       {/* Hero Section */}
       <section
-        className="min-h-screen bg-cover bg-top bg-center flex items-center justify-center relative"
+        className="min-h-screen bg-cover bg-center flex items-center justify-center relative"
         style={{ backgroundImage: "url('/Ready.png')" }}
       >
         

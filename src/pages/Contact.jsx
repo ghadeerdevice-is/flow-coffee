@@ -35,10 +35,10 @@ const Contact = () => {
               </li>
               <li className="flex items-center gap-4">
                 <span className="text-2xl">◔</span>
-                <span>Monday – Sunday: 8:00 AM – 1:00 PM</span>
+                <span>Monday- Sunday: 8:00 AM-1:00 PM</span>
               </li>
               <li className="flex items-center gap-4">
-                <span className="text-2xl">🔎︎</span>
+                <span className="text-2xl">⌕</span>
                 <span>
                   Instagram:{" "}
                   <span className="text-[#00563B] font-semibold">flow.coffee.lb</span>
