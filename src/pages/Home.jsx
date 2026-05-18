@@ -1,3 +1,4 @@
+
 import { Link } from "react-router-dom";
 
 const Home = () => {
@@ -18,9 +19,7 @@ const Home = () => {
         <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-2">
           Welcome to Flow
         </h2>
-     <main> 
-      <section >
-        
+      <div>
         <div className="w-20 h-1 bg-[#00563B] mx-auto rounded mb-10" />
         <div className="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-3 gap-8">
           {["12.jpg", "10.jpg", "6.jpg", "7.jpg", "11.jpg", "90.jpeg"].map((img, i) => (
@@ -33,8 +32,7 @@ const Home = () => {
             </div>
           ))}
         </div>
-      </section>
-      </main>
+      </div>
         <div className="mt-10 flex flex-wrap justify-center gap-6">
           <Link to="/about" className="border-2 border-[#00563B] text-[#00563B] hover:bg-[#00563B] hover:text-white px-6 py-3 rounded-full font-semibold transition-all duration-300">
             About Us
