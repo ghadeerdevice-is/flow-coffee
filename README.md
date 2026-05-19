@@ -1,13 +1,15 @@
 # Flow Coffee
-> A React-based web application for Flow Coffee — a cozy café in Tyre, Lebanon.  
-> Sip. Relax. Flow.
-## Live Demo
+>FLOW IS A SIMPLE SPACE WHERE YOU CAN SIP — RELAX — FLOW. THERE'S
+ NO RUSH HERE. JUST YOU, YOUR COFFEE, AND THE SOUND OF EVERYTHING
+ SLOWING DOWN.
+
+# Live Demo
 https://flow-coffee-amber.vercel.app
 ---
 
-## Project Description
+#Project Description
 
-Flow Coffee is a fully responsive, multi-page web application built with ReactJS and Tailwind CSS. It showcases the café's menu, story, gallery, and contact information. The app was developed as part of CSCI390: Web Programming — Project Phase 2.
+Flow Coffee is a fully responsive, multi-page web application built with ReactJS and Tailwind CSS. It showcases the café's menu, story, gallery, and contact information. The app was developed as part of the web programming course.
 
 ---
 
@@ -24,12 +26,11 @@ Flow Coffee is a fully responsive, multi-page web application built with ReactJS
 
 ##  Setup Instructions
 
-### Prerequisites
+# Prerequisites
 - Node.js 
 - npm
 
-### Installation
-
+# Installation
 
 # 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/flow-coffee.git
@@ -56,14 +57,14 @@ npm run build
 
 ## Deployment
 
-### Deploy to Vercel
+# Deploy to Vercel
 
 ```bash
 npm install -g vercel
 vercel --prod
 ```
 
-### Deploy to GitHub Pages
+# Deploy to GitHub Pages
 
 Add to package.json: "homepage": "https://YOUR_USERNAME.github.io/flow-coffee"
 
@@ -100,13 +101,20 @@ flow-coffee/
 ##  Screenshots
 
 ### Home
-![Home](screenshots/home.png.png)
+![Home](screenshots/1.png)
+![Home](screenshots/2.png)
+![Home](screenshots/3.png)
 
 ### About
-![About](screenshots/about.png.png)
+![About](screenshots/4.png)
+![About](screenshots/5.png)
 
 ### Menu
-![Menu](screenshots/menu.png.png)
+![Menu](screenshots/6.png)
+![Menu](screenshots/7.png)
+![Menu](screenshots/8.png)
+![Menu](screenshots/9.png)
+
 
 ### Contact
-![Contact](screenshots/contact.png.png)
+![Contact](screenshots/10.png)
