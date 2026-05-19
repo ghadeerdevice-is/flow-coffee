@@ -5,10 +5,11 @@ const Home = () => {
   return (
     <main>
       {/* Hero Section */}
-  <section
-  className="h-72 md:h-screen bg-cover bg-center flex items-center justify-center relative pt-16"
+ <section
+  className="h-72 md:h-screen bg-cover bg-center flex items-center justify-center relative"
   style={{ backgroundImage: "url('/Ready.png')" }}
 >
+  
      
        
       </section>
