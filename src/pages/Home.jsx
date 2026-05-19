@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <main>
   {/* Hero Section */}
-<section className="w-full mt-16">
+<section className="w-full mt-16 md:mt-0">
   <img
     src="/Ready.png"
     alt="Ready to Flow"
