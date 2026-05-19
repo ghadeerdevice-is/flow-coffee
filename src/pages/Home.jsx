@@ -6,15 +6,14 @@ const Home = () => {
     <main>
       {/* Hero Section */}
       <section
-        className="min-h-screen bg-cover bg-center flex items-center justify-center relative"
-        style={{ backgroundImage: "url('/Ready.png')" }}
-      >
-        
+  className="h-64 md:h-screen bg-cover bg-center flex items-center justify-center relative"
+  style={{ backgroundImage: "url('/Ready.png')" }}
+>
      
        
       </section>
 
-      {/* Welcome Teaser */}
+      {/* Welcome Section */}
       <section className="py-20 bg-white text-center px-6">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-2">
           Welcome to Flow
