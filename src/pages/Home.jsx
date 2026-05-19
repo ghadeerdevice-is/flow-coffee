@@ -5,8 +5,8 @@ const Home = () => {
   return (
     <main>
       {/* Hero Section */}
-   <section
-  className="h-64 md:h-screen bg-cover bg-top flex items-center justify-center relative"
+  <section
+  className="h-72 md:h-screen bg-cover bg-center flex items-center justify-center relative pt-16"
   style={{ backgroundImage: "url('/Ready.png')" }}
 >
      
