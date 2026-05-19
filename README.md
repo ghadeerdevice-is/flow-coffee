@@ -3,7 +3,7 @@
  NO RUSH HERE. JUST YOU, YOUR COFFEE, AND THE SOUND OF EVERYTHING
  SLOWING DOWN.
 
-# Live Demo
+# Live URL
 https://flow-coffee-amber.vercel.app
 ---
 
@@ -43,17 +43,8 @@ npm install
 
 # 4. Start the development server
 npm start
-```
 
-The app will open at http://localhost:3000.
 
-### Build for Production
-
-```bash
-npm run build
-```
-
----
 
 ## Deployment
 
