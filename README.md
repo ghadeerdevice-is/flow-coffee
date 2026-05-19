@@ -69,32 +69,22 @@ npx gh-pages -d build
 ## Project Structure
 
 ```
-## Project Structure
-
-```
 flow-coffee/
-├── public/                 
-├── screenshots/             
+├── public/             # Static assets (images)
 ├── src/
 │   ├── components/
-│   │   ├── Navbar.jsx       
-│   │   ├── Footer.jsx       
-│   │   └── ScrollToTop.jsx  
+│   │   ├── Navbar.jsx  # Responsive nav with hamburger menu
+│   │   └── Footer.jsx  # Site footer
 │   ├── pages/
-│   │   ├── Home.jsx         
-│   │   ├── About.jsx        
-│   │   ├── Menu.jsx         
-│   │   └── Contact.jsx      
-│   ├── App.js               
-│   ├── index.css            
-│   ├── index.js             
-│   └── reportWebVitals.js   
+│   │   ├── Home.jsx    # Landing page with hero & gallery
+│   │   ├── About.jsx   # About section and values
+│   │   ├── Menu.jsx    # Full menu grid
+│   │   └── Contact.jsx # Contact info and feedback form
+│   ├── App.js          # Router and layout
+│   └── index.css       # Tailwind CSS directives
 ├── tailwind.config.js
-├── postcss.config.js
-├── .gitignore
 ├── package.json
 └── README.md
-```
 ```
 
 ---
