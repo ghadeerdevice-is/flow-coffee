@@ -4,15 +4,14 @@ import { Link } from "react-router-dom";
 const Home = () => {
   return (
     <main>
-      {/* Hero Section */}
- <section
-  className="h-72 md:h-screen bg-cover bg-center flex items-center justify-center relative"
-  style={{ backgroundImage: "url('/Ready.png')" }}
->
-  
-     
-       
-      </section>
+  {/* Hero Section */}
+<section className="w-full">
+  <img
+    src="/Ready.png"
+    alt="Ready to Flow"
+    className="w-full h-auto object-contain"
+  />
+</section>
 
       {/* Welcome Section */}
       <section className="py-20 bg-white text-center px-6">
