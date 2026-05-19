@@ -70,18 +70,18 @@ npx gh-pages -d build
 
 ```
 flow-coffee/
-├── public/             # Static assets (images)
+├── public/             
 ├── src/
 │   ├── components/
-│   │   ├── Navbar.jsx  # Responsive nav with hamburger menu
-│   │   └── Footer.jsx  # Site footer
+│   │   ├── Navbar.jsx  
+│   │   └── Footer.jsx  
 │   ├── pages/
-│   │   ├── Home.jsx    # Landing page with hero & gallery
-│   │   ├── About.jsx   # About section and values
-│   │   ├── Menu.jsx    # Full menu grid
-│   │   └── Contact.jsx # Contact info and feedback form
-│   ├── App.js          # Router and layout
-│   └── index.css       # Tailwind CSS directives
+│   │   ├── Home.jsx    
+│   │   ├── About.jsx   
+│   │   ├── Menu.jsx    
+│   │   └── Contact.jsx 
+│   ├── App.js         
+│   └── index.css       
 ├── tailwind.config.js
 ├── package.json
 └── README.md
