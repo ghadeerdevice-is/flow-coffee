@@ -7,7 +7,7 @@
 https://flow-coffee-amber.vercel.app
 ---
 
-#Project Description
+# Project Description
 
 Flow Coffee is a fully responsive, multi-page web application built with ReactJS and Tailwind CSS. It showcases the café's menu, story, gallery, and contact information. The app was developed as part of the web programming course.
 
